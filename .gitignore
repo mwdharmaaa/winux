@@ -1,0 +1,25 @@
+# Build artifacts
+/target
+/build
+/out
+*.exe
+*.dll
+*.pdb
+*.obj
+*.o
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs & Environment
+*.log
+.env
+.env.local
