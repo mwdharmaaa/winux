@@ -1,6 +1,6 @@
 # Winux
 
-
+Modular userland extension layer and tiling orchestrator transforming Windows NT into a Unix-like experience.
 
 ---
 
